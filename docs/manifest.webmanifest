@@ -1,0 +1,20 @@
+{
+  "name": "QuestFlow — Dev & Gamer Command Center",
+  "short_name": "QuestFlow",
+  "description": "Gestionnaire de tâches gamifié pour développeurs et gamers. 100% local.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#06080d",
+  "theme_color": "#06080d",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
